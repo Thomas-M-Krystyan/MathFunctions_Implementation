@@ -15,7 +15,7 @@ Minimum (min), Maximum (max), Average (mean), and counting elements of different
 
 |  Language  | Version | Frameworks | Version |  Paradigm  |  Category  |      Level       | Group project | Code freeze |
 |:----------:|:-------:|:----------:|:-------:|:----------:|:----------:|:----------------:|:-------------:|:-----------:|
-|   Python   |  3.5.2  |     -      |    -    | Procedural | Algorithm  |    Beginning     |       -       |  05.12.2016 |
+|   Python   |  3.5.2  |     -      |    -    | Procedural | Algorithm  | Pre-Intermediate |       -       |  05.12.2016 |
 
 ---
 ### Run:
